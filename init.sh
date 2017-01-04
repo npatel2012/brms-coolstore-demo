@@ -3,7 +3,7 @@ DEMO="JBoss BRMS Red Hat Cool Store Demo"
 AUTHORS1="Jason Milliron, Andrew Block,"
 AUTHORS2="AMahdy AbdElAziz, Eric D. Schabell"
 AUTHORS3="Duncan Doyle, Jaen Swart"
-PROJECT="git@github.com:jbossdemocentral/brms-coolstore-demo.git"
+PROJECT="git@github.com:npatel2012/brms-coolstore-demo.git"
 PRODUCT="JBoss BRMS"
 TARGET=./target
 JBOSS_HOME=$TARGET/jboss-eap-7.0
@@ -19,7 +19,7 @@ BRMS=jboss-brms-6.4.0.GA-deployable-eap7.x.zip
 EAP=jboss-eap-7.0.0-installer.jar
 #EAP_PATCH=jboss-eap-6.4.7-patch.zip
 VERSION=6.4
-PROJECT_GIT_REPO=https://github.com/jbossdemocentral/brms-coolstore-repo
+PROJECT_GIT_REPO=https://github.com/npatel2012/brms-coolstore-repo
 PROJECT_GIT_DIR=./support/demo_project_git
 OFFLINE_MODE=false
 
